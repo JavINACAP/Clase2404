@@ -1,0 +1,65 @@
+h1{
+    font-style:italic;
+    color:aliceblue;
+    text-align:center;
+    color:black;
+}
+
+.htmlsylv{
+    background-color: lightgray;
+    background-image: url(Imagenes/SLFondo.avif);
+    background-position:center;
+    background-repeat: repeat-y;
+}
+
+.htmlalleria{
+    background-color: lightgray;
+    background-image: url(Imagenes/amirdrassil.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.htmlvereesa{
+    background-color: lightgray;
+    background-image: url(Imagenes/Quel.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.htmlvaleera{
+    background-color:lightgray;
+    background-image:url(Imagenes/ValeeraFondo.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+
+.texto{
+    width:fit-content;
+    height:fit-content;
+    font-style:italic;
+    font-weight:550;
+    color:black;
+    text-decoration:underline;
+}
+
+.imagen{
+    position:fixed;
+}
+
+#cuadritosylv{
+    border:3px solid black;
+    height: 15cm;
+    position:fixed;
+
+}
+
+#cuadritoalleria{
+    border: 3px solid black;
+    height: 15cm;
+    position:fixed;
+}
